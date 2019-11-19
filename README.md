@@ -1,9 +1,9 @@
 # hello-world
 
-Hi guys!, I am new here, so we do not waiting most.
+Hi guys!, I'm new here.
 
 I like programming and open source software.
 
-The languages that I use more at this moment are: JAVA and Python
+I'm a begginer developer and the languages that I use the most at this moment are: JAVA and Python.
 
-I would like to collaborate with a project, so count with me for we fun together. :D
+I would like to collaborate with a project, so count on me and let's have fun. :D
